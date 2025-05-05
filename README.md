@@ -44,6 +44,21 @@
 <br>
 
 
+## 📁 Projects
+
+### 🛒 mallbydh - E-commerce Platform
+> A full-featured shopping mall backend using Java, Spring Boot, MyBatis, and KakaoPay API
+
+- Developed secure order/payment flow with KakaoPay
+- Designed RESTful APIs and admin dashboard
+- Deployed on AWS EC2 using Nginx, Git, and nohup
+
+🔗 [Repository](https://github.com/codebydh/mallbydh)
+
+
+<br>
+
+
 ## 📜 Certificates
 - 2024.12. SQL Developer (SQLD) <span style="color:gray;"><i>issued by Korea Data Agency (K-DATA)</i></span>
 - 2024.05. TOEIC Speaking IH (Score 150) <span style="color:gray;"><i>issued by ETS (Administered by YBM Korea)</i></span>
