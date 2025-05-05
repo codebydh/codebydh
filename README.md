@@ -29,8 +29,10 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-
-  
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"> 
 </div>
 
 ### now learning...
@@ -43,7 +45,7 @@
 
 
 ## 📜 Certificates
-- 2024.12. SQL Developer(SQLD) <span style="color:gray;"><i>issued by Korea Data Agency (K-DATA)</i></span>
+- 2024.12. SQL Developer (SQLD) <span style="color:gray;"><i>issued by Korea Data Agency (K-DATA)</i></span>
 - 2024.05. TOEIC Speaking IH (Score 150) <span style="color:gray;"><i>issued by ETS (Administered by YBM Korea)</i></span>
 
 
@@ -52,7 +54,6 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/codebydh/">
-    <img src="https://hits.sh/github.com/codebydh.svg?view=today-total&color=blue&labelColor=gray&label=Visitors&logo=github">
+    <img src="https://hits.sh/github.com/codebydh.svg?color=blue&labelColor=gray&label=Visitors&logo=github">
   </a>
 </p>
-
